@@ -26,7 +26,7 @@ techshop
 
 Bạn có thể tạo database theo cách trong hình hoặc mở tab SQL tại thanh điều hướng và sử dụng lệnh 
 ```
-CREATE DATABASE ie104_group2;
+CREATE DATABASE techshop;
 ```
 
 #### Bước 3: Nhập dữ liệu cho cơ sở dữ liệu:
